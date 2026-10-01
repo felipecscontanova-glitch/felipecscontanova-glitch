@@ -1,5 +1,3 @@
-# Olá, eu sou o Felipe 👋
-
 ### Desenvolvedor de aplicações web, desktop e mobile
 
 Crio ferramentas para automatizar tarefas e transformar processos técnicos em aplicações práticas. Meu trabalho conecta desenvolvimento de software, AutoCAD e dados geográficos.
@@ -15,7 +13,7 @@ Crio ferramentas para automatizar tarefas e transformar processos técnicos em a
 
 | Área | Tecnologias |
 | --- | --- |
-| Linguagens | JavaScript · TypeScript |
+| Linguagens | JavaScript · TypeScript · Python |
 | Web | React · Vite |
 | Mobile | React Native · Expo |
 | Desktop | Electron |
@@ -24,15 +22,6 @@ Crio ferramentas para automatizar tarefas e transformar processos técnicos em a
 
 ## Ferramentas que crio
 
-**Painel de automação para AutoCAD**  
-Ferramentas para automatizar tarefas no ambiente CAD.
+**ORBYX PAINEL CENTRALIZADO DE AUTOMAÇÕES**  
+Ferramentas para automatizar tarefas no ambiente CAD, Integração de dados geográficos ao fluxo de trabalho no AutoCAD, Importação e exportação entre desenho técnico e visualização geográfica.
 
-**KML2CAD georreferenciado**  
-Integração de dados geográficos ao fluxo de trabalho no AutoCAD.
-
-**AutoCAD ⇄ Google Earth**  
-Importação e exportação entre desenho técnico e visualização geográfica.
-
----
-
-Gosto de desenvolver software conectado a problemas reais, com atenção à usabilidade e à organização do código.
